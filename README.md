@@ -1,7 +1,7 @@
 # PASTE
 
 # About 
-I made this script to upload files on paste in from my terminal easily.
+I made this script to upload files on pastebin from my terminal easily.
 
 # Installation
 
