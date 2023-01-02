@@ -1,5 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
-
+#Author: @sagnik {instagram}
 upload(){
 
 	text=`cat $1`
